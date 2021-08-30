@@ -11,6 +11,7 @@ public class test1 {
         System.out.println("master1");
         System.out.println("hot-fix1");
         System.out.println("github");
+        System.out.println("to IDEA");
 
 
     }
